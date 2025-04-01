@@ -1,0 +1,12 @@
+# 🌐 Node.js Hello World
+
+Un'applicazione semplice che utilizza Node.js per creare un server web che risponde con "Hello World" alle richieste HTTP.
+
+## 🛠️ Tecnologie Utilizzate
+
+- 🟢 **Node.js**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+
+## 📂 Struttura del Progetto
+
+- **`index.js`**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+- **`package.json`**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
